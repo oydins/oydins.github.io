@@ -1,6 +1,9 @@
 body {
 	text-align: center;
-	color: #fff;
+  	background: url("http://www.davestravelcorner.com/wp-blog/wp-content/uploads/2006/04/Los-Angeles-1.jpg");
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
 }
 hr {
 	width: 200px;
