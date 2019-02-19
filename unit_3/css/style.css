@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background-image: url(/images/LAClouds.jpg);
+	background-size: cover;
+	color: #fff;
+}
+hr {
+	width: 200px;
+}
+p {
+	font-size: 22px;
+}
