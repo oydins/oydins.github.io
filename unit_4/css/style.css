@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+	text-align: center;
+  	background: url("https://wonderfulengineering.com/wp-content/uploads/2016/01/Los-Angeles-Wallpaper-21.jpeg");
+  	background-size: cover;
+  	color: black;
+  	font-family: 'Roboto Slab', serif;
+}
+hr {
+	width: 200px;
+}
+p {
+	font-size: 22px;
+}
