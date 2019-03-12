@@ -5,29 +5,27 @@ body {
   	color: black;
   	font-family: 'Roboto Slab', serif;
 }
-hr {
-	width: 200px;
+
 }
-p {
+h1, p {
 	font-size: 22px;
+  	border-bottom: 4px solid black;
+  	display: inline-block;
 }
 header {
 	background-color: #FFED74
-	border: 1px black solid;
-	padding: 20px;
+	border-bottom: 4px solid black;
 }
 nav {
 	background-color: #E8C66A
-	border: 1px black solid;
-	padding: 20px
+	border-bottom: 4px solid black;
 }
 article {
 	background-color: #89C6C
-	border: 1px black solid;
-	padding: 20px
+	border-bottom: 4px solid black;
 }
 footer {
 	background-color: #FF957E
-	border: 1px black solid;
-	padding: 20px
+	text-align: center;
+  	padding: 1em 0;
 }
