@@ -5,9 +5,21 @@ body {
   	color: black;
   	font-family: 'Roboto Slab', serif;
 }
-.box, .boxtwo {
+.box,  {
 	margin: 30px;
-	padding: 30px;
+	padding: 20px;
 	border: 1px solid #000;
+	background-color: #E8C66A;
 }
-
+.boxtwo {
+	margin: 30px;
+	padding: 20px;
+	border: 1px solid #000;
+	background-color: #FF957E;
+}
+h1 {
+	background-color: #FFED74;
+}
+p {
+	background-color: #E89C6C;
+}
