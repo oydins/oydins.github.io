@@ -4,8 +4,9 @@ body {
 	text-align: center;
   	color: black;
   	font-family: 'Roboto Slab', serif;
+  	background-color: #FFE2B8;
 }
-.box,  {
+.box {
 	margin: 30px;
 	padding: 20px;
 	border: 1px solid #000;
