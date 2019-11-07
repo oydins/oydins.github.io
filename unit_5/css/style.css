@@ -2,25 +2,26 @@
 
 body {
 	text-align: center;
-  	color: black;
+  	color: white;
   	font-family: 'Roboto Slab', serif;
-  	background-color: #FFE2B8;
+  	background-color: #black;
 }
 .box {
 	margin: 30px;
 	padding: 20px;
 	border: 1px solid #000;
-	background-color: #E8C66A;
+	background-color: black;
+	color: white;
 }
 .boxtwo {
 	margin: 30px;
 	padding: 20px;
 	border: 1px solid #000;
-	background-color: #FF957E;
+	background-color: black;
 }
-h1 {
-	background-color: #FFED74;
+h4 {
+	background-color: black;
 }
 p {
-	background-color: #E89C6C;
+	background-color: #black;
 }
